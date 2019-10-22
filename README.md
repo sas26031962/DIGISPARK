@@ -16,7 +16,10 @@
 #
 # DigisparkKeyboard : Эмуляция клавиатуры
 # DigisparkKeyboard1 : Эмуляция клавиатуры и мигание светодиодом
-
-# DigisparkBlink
-# DigisparkI2CScanner
+# DigisparkBlink : Мигание светодиодом
+#
+# DigisparkI2CScanner : Эмуляция клавиатуры - вывод в последовательный порт информации о подключённых I2C устройствах
+# 
+# Drivers : каталог с драйверами и описанием настройки среды разработки
+#
 
